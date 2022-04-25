@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package paquetedos;
-
 import paqueteuno.Pelicula;
 
 
